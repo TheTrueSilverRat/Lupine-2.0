@@ -870,7 +870,7 @@
 /area/rogue/under/underdark)
 "aTh" = (
 /obj/structure/flora/roguegrass,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/AzureSand,
 /area/rogue/outdoors/beach)
 "aTr" = (
@@ -1585,7 +1585,7 @@
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/exposed/bath/vault)
 "bDT" = (
-/obj/item/ash,
+/obj/item/natural/ash,
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 4
 	},
@@ -1987,7 +1987,7 @@
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/bog/north)
 "bYH" = (
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/beach)
 "bYV" = (
@@ -3828,7 +3828,7 @@
 /obj/item/natural/cloth,
 /obj/item/natural/cloth,
 /obj/item/gun/ballistic/revolver/grenadelauncher/crossbow,
-/obj/item/quiver/bolts,
+/obj/item/quiver/bolt,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors/town/garrison)
 "dHI" = (
@@ -4831,7 +4831,7 @@
 /turf/open/floor/rogue/blocks,
 /area/rogue/indoors/shelter)
 "eDJ" = (
-/obj/structure/flora/rogueshroom/happy/mushroom3,
+/obj/structure/flora/rogueshroom/happy/random,
 /turf/open/floor/rogue/flesh,
 /area/rogue/under/cavewet/infested)
 "eDM" = (
@@ -5965,7 +5965,7 @@
 "fGf" = (
 /obj/structure/meathook,
 /obj/effect/decal/cleanable/blood/tracks,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "fGi" = (
@@ -6951,7 +6951,7 @@
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cave)
 "gCF" = (
-/obj/item/ash{
+/obj/item/natural/ash{
 	layer = 50
 	},
 /obj/item/natural/stone{
@@ -7285,7 +7285,7 @@
 /turf/open/floor/rogue/woodturned,
 /area/rogue/outdoors/beach)
 "gUR" = (
-/obj/machinery/artificer_table,
+/obj/structure/artificer_table,
 /turf/open/floor/rogue/tile/brownbrick,
 /area/rogue/outdoors/beach/forest/hamlet)
 "gUY" = (
@@ -7304,7 +7304,7 @@
 /area/rogue/outdoors/bog/north)
 "gVQ" = (
 /obj/structure/table/vtable/v2,
-/obj/item/rogueweapon/woodstaff/diamond,
+/obj/item/rogueweapon/woodstaff/implement/grand,
 /obj/effect/spawner/lootdrop/roguetown/dungeon/armor,
 /turf/open/floor/rogue/churchbrick,
 /area/rogue/under/cavewet/bogcaves/central)
@@ -9034,8 +9034,8 @@
 	icon_state = "tablewood2";
 	dir = 10
 	},
-/obj/item/leash/chain,
-/obj/item/leash/chain,
+/obj/item/rope/chain,
+/obj/item/rope/chain,
 /turf/open/floor/rogue/blocks,
 /area/rogue/under/town/basement/keep)
 "iDa" = (
@@ -10032,7 +10032,7 @@
 /area/rogue/under/cavewet/bogcaves/central)
 "jzO" = (
 /obj/structure/table/wood/poor,
-/obj/item/ash,
+/obj/item/natural/ash,
 /obj/item/natural/fibers,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
@@ -11555,7 +11555,7 @@
 /turf/open/floor/rogue/hay,
 /area/rogue/under/cavewet/bogcaves/central)
 "kRx" = (
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/AzureSand,
 /area/rogue/outdoors/beach)
 "kRE" = (
@@ -12031,7 +12031,7 @@
 /area/rogue/indoors/shelter)
 "lnn" = (
 /obj/structure/table/wood,
-/obj/item/clothing/cloak/templar/malum,
+/obj/item/clothing/cloak/templar/malumite,
 /turf/open/floor/rogue/metal,
 /area/rogue/outdoors/mountains/decap/minotaurfort)
 "lnq" = (
@@ -12668,7 +12668,7 @@
 /obj/effect/spawner/lootdrop/roguetown/dungeon/money,
 /obj/effect/spawner/lootdrop/roguetown/dungeon/money,
 /obj/effect/spawner/lootdrop/roguetown/dungeon/money,
-/obj/item/rogueweapon/huntingknife/idagger/silver,
+/obj/item/rogueweapon/huntingknife/combat/silver,
 /obj/item/candle/gold/lit,
 /turf/open/floor/rogue/hexstone,
 /area/rogue/under/cavewet/bogcaves/central)
@@ -12989,10 +12989,10 @@
 /area/rogue/under/town/sewer)
 "mke" = (
 /obj/structure/closet/crate/chest/crate,
-/obj/item/ash,
-/obj/item/ash,
-/obj/item/ash,
-/obj/item/ash,
+/obj/item/natural/ash,
+/obj/item/natural/ash,
+/obj/item/natural/ash,
+/obj/item/natural/ash,
 /obj/machinery/light/rogue/candle/l,
 /turf/open/floor/rogue/tile/bath,
 /area/rogue/indoors/town/magician)
@@ -14410,7 +14410,7 @@
 /area/rogue/indoors/town/tavern)
 "nwM" = (
 /obj/structure/table/wood/fancy/black,
-/obj/item/rogueweapon/huntingknife/idagger/silver,
+/obj/item/rogueweapon/huntingknife/combat/silver,
 /obj/effect/spawner/lootdrop/roguetown/dungeon/armor,
 /turf/open/floor/rogue/blocks,
 /area/rogue/under/cavewet/bogcaves/central)
@@ -15511,7 +15511,7 @@
 /area/rogue/outdoors/woods/south)
 "oyC" = (
 /obj/item/chair/rogue/fancy,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/beach)
 "oyE" = (
@@ -15568,8 +15568,8 @@
 /area/rogue/under/town/sewer)
 "oBj" = (
 /obj/structure/rack/rogue,
-/obj/item/quiver/bolts,
-/obj/item/quiver/bolts,
+/obj/item/quiver/bolt,
+/obj/item/quiver/bolt,
 /turf/open/floor/rogue/cobble,
 /area/rogue/indoors/town/manor)
 "oBs" = (
@@ -15743,7 +15743,7 @@
 	pixel_y = -4
 	},
 /obj/effect/decal/cleanable/blood/tracks,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "oIm" = (
@@ -15818,7 +15818,7 @@
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "oOx" = (
-/obj/structure/flora/rogueshroom/happy/mushroom4,
+/obj/structure/flora/rogueshroom/happy/random,
 /turf/open/floor/rogue/flesh,
 /area/rogue/under/cavewet/infested)
 "oOJ" = (
@@ -15969,7 +15969,7 @@
 /area/rogue/under/cavewet/bogcaves/central)
 "oWb" = (
 /obj/structure/chair/wood/rogue/fancy,
-/obj/effect/landmark/start/nightman,
+/obj/effect/landmark/start/bathmaster,
 /turf/open/floor/carpet/royalblack,
 /area/rogue/outdoors/exposed/bath/vault)
 "oWl" = (
@@ -17307,7 +17307,7 @@
 /area/rogue/under/cavewet/infested)
 "qnV" = (
 /obj/structure/bookcase,
-/obj/item/book/spellbook,
+/obj/item/rogueweapon/spellbook/grand,
 /turf/open/floor/rogue/blocks,
 /area/rogue/under/cavewet/bogcaves/central)
 "qoh" = (
@@ -17336,7 +17336,7 @@
 /area/rogue/indoors/town/magician)
 "qoI" = (
 /obj/structure/table/wood/poor,
-/obj/item/ash,
+/obj/item/natural/ash,
 /obj/item/natural/fibers,
 /obj/item/natural/fibers{
 	pixel_x = 10
@@ -17535,11 +17535,11 @@
 /area/rogue/under/underdark)
 "qxJ" = (
 /obj/structure/rack/rogue/shelf/biggest,
-/obj/item/roguegear/wood,
-/obj/item/roguegear/bronze,
-/obj/item/roguegear/wood/basic,
-/obj/item/roguegear/wood/reliable,
-/obj/item/roguegear/wood/unstable,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/obj/item/roguegear,
 /obj/item/ingot/bronze,
 /obj/item/ingot/bronze,
 /turf/open/floor/rogue/tile/brownbrick,
@@ -19293,7 +19293,7 @@
 /turf/open/floor/rogue/concrete,
 /area/rogue/under/underdark)
 "sih" = (
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "siq" = (
@@ -20499,7 +20499,7 @@
 /area/rogue/under/underdark)
 "toA" = (
 /obj/structure/table/wood/fancy/black,
-/obj/item/spellbook_unfinished/pre_arcyne,
+/obj/item/rogueweapon/spellbook,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/under/cavewet/bogcaves/central)
 "toQ" = (
@@ -20679,7 +20679,7 @@
 /area/rogue/indoors/shelter/bog)
 "txM" = (
 /obj/item/grown/log/tree/stick,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "txP" = (
@@ -20873,7 +20873,7 @@
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cavewet/bogcaves/central)
 "tGI" = (
-/obj/effect/landmark/start/churchling,
+/obj/effect/landmark/start/sexton,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors/town/church/chapel)
 "tHc" = (
@@ -21249,10 +21249,10 @@
 /area/rogue/under/underdark)
 "ucy" = (
 /obj/structure/rack/rogue,
-/obj/item/clothing/shoes/roguetown/boots/blacksteel,
-/obj/item/clothing/shoes/roguetown/boots/blacksteel,
-/obj/item/clothing/shoes/roguetown/boots/blacksteel,
-/obj/item/clothing/shoes/roguetown/boots/blacksteel,
+/obj/item/clothing/shoes/roguetown/boots/armor/blacksteel,
+/obj/item/clothing/shoes/roguetown/boots/armor/blacksteel,
+/obj/item/clothing/shoes/roguetown/boots/armor/blacksteel,
+/obj/item/clothing/shoes/roguetown/boots/armor/blacksteel,
 /turf/open/floor/rogue/cobble,
 /area/rogue/indoors/town/manor)
 "ucC" = (
@@ -21434,8 +21434,8 @@
 /obj/item/clothing/suit/roguetown/armor/leather/jacket,
 /obj/item/clothing/under/roguetown/trou/leather,
 /obj/item/clothing/under/roguetown/trou/leather,
-/obj/item/clothing/shoes/roguetown/boots/blacksteel,
-/obj/item/clothing/shoes/roguetown/boots/leather/atgervi,
+/obj/item/clothing/shoes/roguetown/boots/armor/blacksteel,
+/obj/item/clothing/shoes/roguetown/boots/leather/reinforced/atgervi,
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town)
 "umP" = (
@@ -23715,7 +23715,7 @@
 /turf/open/floor/rogue/hexstone,
 /area/rogue/under/cavewet/bogcaves/central)
 "wtt" = (
-/obj/structure/flora/rogueshroom/happy/mushroom5,
+/obj/structure/flora/rogueshroom/happy/random,
 /turf/open/floor/rogue/flesh,
 /area/rogue/under/cavewet/infested)
 "wug" = (
@@ -23908,7 +23908,7 @@
 /obj/structure/table/wood/large_table,
 /obj/item/rope/chain,
 /obj/item/rogueweapon/handsaw,
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/outdoors/beach)
 "wFt" = (
@@ -24310,7 +24310,7 @@
 "xaj" = (
 /obj/structure/table/wood/poor,
 /obj/item/clothing/suit/roguetown/armor/plate/half/aalloy,
-/obj/item/rogueweapon/sword/saber/iron,
+/obj/item/rogueweapon/sword/sabre,
 /obj/item/quiver/arrows,
 /obj/item/quiver/arrows,
 /obj/item/quiver/arrows,
@@ -24322,9 +24322,9 @@
 /area/rogue/under/underdark)
 "xax" = (
 /obj/structure/table/wood/poor,
-/obj/item/leash/chain,
-/obj/item/leash/chain,
-/obj/item/leash/chain,
+/obj/item/rope/chain,
+/obj/item/rope/chain,
+/obj/item/rope/chain,
 /obj/item/clothing/neck/roguetown/cursed_collar,
 /obj/item/clothing/neck/roguetown/cursed_collar,
 /obj/item/clothing/neck/roguetown/cursed_collar,
@@ -25066,7 +25066,7 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 8
 	},
-/obj/item/ash,
+/obj/item/natural/ash,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/beach)
 "xJH" = (
@@ -25328,7 +25328,7 @@
 	},
 /obj/structure/rack/rogue/shelf/biggest,
 /obj/item/clothing/shoes/roguetown/boots/armor/iron,
-/obj/item/rogueweapon/knuckles/bronzeknuckles,
+/obj/item/clothing/gloves/roguetown/knuckles/bronze,
 /turf/open/floor/rogue/dirt,
 /area/rogue/under/town/sewer)
 "xUK" = (
