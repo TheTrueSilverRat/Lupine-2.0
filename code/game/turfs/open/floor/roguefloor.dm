@@ -1921,3 +1921,21 @@
 	icon_state = "brownice"
 	neighborlay = "brownice"
 	thin_ice = TRUE
+
+//Lupine Pass 2.0 Edit Start (Adding flesh floors)
+
+/turf/open/floor/rogue/flesh
+	name = "flesh"
+	desc = "Flesh, squishy and slimy."
+	icon_state = "flesh"
+	layer = MID_TURF_LAYER
+	footstep = FOOTSTEP_MUD
+	barefootstep = FOOTSTEP_MUD
+	heavyfootstep = FOOTSTEP_MUD
+	tiled_dirt = FALSE
+	landsound = 'sound/foley/jumpland/dirtland.wav'
+	slowdown = 0
+	smooth = SMOOTH_TRUE
+	temperature = 310 // The Temperature of the inside of the human body in Kelvin
+
+//Lupine Pass 2.0 Edit End
