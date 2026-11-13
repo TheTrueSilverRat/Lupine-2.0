@@ -420,3 +420,10 @@
 	seems to cling to its surface, this probably contains oil sanctified for liturgical \
 	- or magical - purposes."
 
+//LUPINE PASS 2.0 EDIT
+
+/obj/item/reagent_containers/glass/bottle/rogue/emberwine
+	list_reagents = list(/datum/reagent/consumable/ethanol/beer/emberwine = 24)
+	desc = "A bottle with an unmarked, tannin-tinted cork-seal. Zybantu red or another such cheap wine, in all likelihood."
+
+//LUPINE PASS 2.0 EDIT END

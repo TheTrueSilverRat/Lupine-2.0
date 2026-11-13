@@ -77,6 +77,17 @@
 	name = "Leather Collar"
 	cost =	50	//sense of pride and accomplishment
 	contains = list(/obj/item/clothing/neck/roguetown/collar/leather)
+//LUPINE PASS 2.0 EDIT
+
+//Note to self add Chain leash
+
+/datum/supply_pack/rogue/blackmarket_diplomacy/emberwine
+	name = "Emberwine"
+	cost =	50	//formidable poison
+	contains = list(/obj/item/reagent_containers/glass/bottle/rogue/emberwine)
+
+//LUPINE PASS 2.0 EDIT END
+
 
 /datum/supply_pack/rogue/blackmarket_diplomacy/bomb
 	name = "Bottle Bomb"

@@ -861,6 +861,21 @@
 	desc = "I was on the sermon, and my patron is not proud of me."
 	icon_state = "hereticsermon"
 
+// LUPINE PASS 2.0 EDIT Emberwinse
+
+/atom/movable/screen/alert/status_effect/emberwine
+	name = "Aphrodesiac"
+	desc = "The warmth is spreading through my body..."
+	icon_state = "emberwine"
+
+/datum/status_effect/debuff/emberwine
+	id = "emberwine"
+	effectedstats = list(STATKEY_INT = -3)
+	duration = 1 MINUTES
+	alert_type = /atom/movable/screen/alert/status_effect/emberwine
+
+// LUPINE PASS 2.0 EDIT END
+
 /datum/status_effect/debuff/lost_naledi_mask
 	id = "naledimask"
 	alert_type = /atom/movable/screen/alert/status_effect/debuff/naledimask

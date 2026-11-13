@@ -995,6 +995,7 @@
 #include "code\datums\sexcon2\sex_session.dm"
 #include "code\datums\sexcon2\sex_status.dm"
 #include "code\datums\sexcon2\sex_stress.dm"
+#include "code\datums\sexcon2\sexconreagents.dm"
 #include "code\datums\sexcon2\actions\_base_action.dm"
 #include "code\datums\sexcon2\actions\masturbation\_base.dm"
 #include "code\datums\sexcon2\actions\masturbation\anus.dm"

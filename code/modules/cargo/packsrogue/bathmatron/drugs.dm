@@ -76,3 +76,8 @@
 	name = "Fermented Crab"
 	cost = 50
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/fermented_crab)
+
+/datum/supply_pack/rogue/drugs/ember_wine
+	name = "Emberwine"
+	cost = 50
+	contains = list(/obj/item/reagent_containers/glass/bottle/rogue/emberwine)
